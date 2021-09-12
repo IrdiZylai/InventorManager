@@ -17,6 +17,7 @@ public class Category extends javax.swing.JFrame {
     public Category() {
         initComponents();
         SelectCategory();
+        
     }
 
     Connection Con = null;
